@@ -16,7 +16,11 @@ DEMO内容
 
 使用说明
 ----
-1. git clone 整个项目
+1. git clone 整个项目    
+
+    ```Git
+    git clone https://github.com/occlive/JavaBase
+    ```
 2. 将自己需要的项目文件夹复制到eclipse工作空间
 3. 点击eclipse的<kbd>File</kbd>-><kbd>Import</kbd> <br>
     <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/01.png" width="300px" height="500px">
