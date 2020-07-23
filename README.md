@@ -6,7 +6,8 @@ ___写代码时，demo和博客更配哦。___
 
 JDK下载<sup>JavaSE</sup>
 ----
-https://github.com/occlive/JavaJDK/tree/master/JavaSE>
+<a  href="https://github.com/occlive/JavaJDK/tree/master/JavaSE" target="_blank"></a><br>
+
 
 DEMO内容
 ----
