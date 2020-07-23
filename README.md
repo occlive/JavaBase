@@ -2,11 +2,11 @@
 从零开始的java语言学习~  
 
 ___写代码时，demo和博客更配哦。___ 
-[查看我的博客][a]<br>
+[查看我的博客](https://www.cnblogs.com/occlive/category/1783957.html)<br>
 
 JDK下载<sup>JavaSE</sup>
 ----
-<https://github.com/occlive/JavaJDK/tree/master/JavaSE>
+https://github.com/occlive/JavaJDK/tree/master/JavaSE>
 
 DEMO内容
 ----
