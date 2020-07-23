@@ -1,13 +1,12 @@
 ## Java基础demo
-从零开始的java语言学习~  
+从零开始的java语言学习~ 
 
-___写代码时，demo和博客更配哦。___ 
-<a  href="https://www.cnblogs.com/occlive/category/1783957.html" target="_blank">查看我的博客</a><br>
+___写代码时，demo和博客更配哦。☺___ 
+[查看我的博客][a]<br>
 
 JDK下载<sup>JavaSE</sup>
 ----
-<a  href="https://github.com/occlive/JavaJDK/tree/master/JavaSE" target="_blank">点击</a><br>
-
+  https://github.com/occlive/JavaJDK/tree/master/JavaSE
 
 DEMO内容
 ----
@@ -77,5 +76,5 @@ ChangeLog
 ### -2020.6.19
 1. 更新Demo文件，使用java语言打印`hello world!`
 
-
+[a]:https://www.cnblogs.com/occlive/category/1783957.html
 [b]:https://www.cnblogs.com/occlive/p/13196607.html
