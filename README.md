@@ -2,7 +2,7 @@
 从零开始的java语言学习~  
 
 ___写代码时，demo和博客更配哦。___ 
-[查看我的博客](https://www.cnblogs.com/occlive/category/1783957.html)<br>
+[查看我的博客][a]<br>
 
 JDK下载<sup>JavaSE</sup>
 ----
@@ -76,5 +76,5 @@ ChangeLog
 ### -2020.6.19
 1. 更新Demo文件，使用java语言打印`hello world!`
 
-[a]:https://www.cnblogs.com/occlive/category/1783957.html
+[a]:https://www.cnblogs.com/occlive/category/1783957.html?_blank
 [b]:https://www.cnblogs.com/occlive/p/13196607.html
