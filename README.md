@@ -48,7 +48,7 @@ DEMO内容
     <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/03.png" width="450px" height="500px">
     <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/04.png" width="450px" height="500px">
 6. 导入完成并运行<br>
-    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/05.png" width="450px" height="500px">
+    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/05.png" width="700px" height="500px">
 
 [点击查看详细步骤][b]
 
