@@ -41,14 +41,14 @@ DEMO内容
     ```
 2. 将自己需要的项目文件夹复制到eclipse工作空间
 3. 点击eclipse的<kbd>File</kbd>-><kbd>Import</kbd> <br>
-    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/01.png" width="300px" height="500px">
+    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/01.png">
 4. 选择<kbd>Existing Projects into Workspace</kbd>进行项目导入 <br>
-    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/02.png" width="450px" height="500px">
+    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/02.png">
 5. 选择要导入的项目<kbd>Project</kbd><br>
-    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/03.png" width="450px" height="500px">
-    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/04.png" width="450px" height="500px">
+    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/03.png" >
+    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/04.png">
 6. 导入完成并运行<br>
-    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/05.png" width="700px" height="500px">
+    <img src="https://cdn.jsdelivr.net/gh/occlive/ImageStore/javabase/05.png">
 
 [点击查看详细步骤][b]
 
