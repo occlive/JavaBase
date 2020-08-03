@@ -68,6 +68,15 @@ DEMO内容
 
 ChangeLog
 ----
+### -2020.8.4
+1. 新增Date文件
+   * 包含**获取日期**的使用实例
+   * 包含`Date`、`Calendar`的使用实例
+   * 包含`Format`、`SimpleFormat`的格式化使用实例
+   * 包含**JKD8日期**的使用实例
+   * 包含`Instant`、`LocalDate`、`LocalTime`、`LocalDateTime`的使用实例
+   * 包产线程安全的`DateTimeFormatter`格式化使用实例
+
 ### -2020.8.2
 1. 新增YiChangDuanYan文件
    * 包含**捕获异常**`try catch finally`的使用实例
